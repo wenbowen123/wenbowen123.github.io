@@ -1,0 +1,11 @@
+li {
+  list-style-type: disc;
+  margin: 15px 0px;
+  line-height: 15px;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: x-large;
+  font-weight: lighter;
+}
