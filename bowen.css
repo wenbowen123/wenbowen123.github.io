@@ -1,0 +1,17 @@
+li {
+  list-style-type: disc;
+  margin: 15px 0px;
+  line-height: 15px;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  padding-top: 40px;
+}
+
+
+.content-loader tr td {
+  white-space: nowrap;
+}
