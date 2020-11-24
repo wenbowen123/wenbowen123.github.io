@@ -1,7 +1,6 @@
 li {
   list-style-type: disc;
   margin: 15px 0px;
-  line-height: 15px;
 }
 
 h2 {
@@ -14,4 +13,8 @@ h2 {
 
 .content-loader tr td {
   white-space: nowrap;
+}
+
+.gray {
+  color: gray;
 }
