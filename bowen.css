@@ -1,6 +1,7 @@
 li {
   list-style-type: disc;
-  margin: 15px 0px;
+  margin: 10px 0px;
+  line-height: 1.8;
 }
 
 h2 {
