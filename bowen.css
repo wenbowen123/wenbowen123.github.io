@@ -24,10 +24,35 @@ h2 {
   padding-top: 40px;
 }
 
-
-.content-loader tr td {
-  white-space: nowrap;
+paper_cell {
+  vertical-align: top;
+  font-size: 15px;
+  padding-bottom: 10px;
 }
+
+.myname {
+  color: black;
+  font-weight: bold;
+}
+
+.author_name
+{
+  color: gray;
+  font-size: 13px;
+  margin-bottom: 5px;
+}
+
+.paper_name {
+  font-size: 15px;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+.conference_name {
+  font-style: italic;
+  margin-bottom: 5px;
+}
+
 
 .gray {
   color: gray;
